@@ -71,13 +71,13 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "AzureSqlTable1",
+						"referenceName": "SourceEmpTable1",
 						"type": "DatasetReference"
 					}
 				],
 				"outputs": [
 					{
-						"referenceName": "AzureSqlTable2",
+						"referenceName": "TargetEmpTable1",
 						"type": "DatasetReference"
 					}
 				]
